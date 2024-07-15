@@ -1,3 +1,5 @@
+https://p0.pxfuel.com/preview/1004/350/396/abstract-php-c-analytics.jpg
+
 <h1 align="center">Hi 👋, I'm Muriidi Turaab</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
